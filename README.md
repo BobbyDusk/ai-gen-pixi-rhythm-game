@@ -1,6 +1,6 @@
 # Rhythm Game with Pixi.js
 
-A fun and interactive rhythm game built using Pixi.js! Test your timing and rhythm skills by hitting notes as they fall down the screen.
+This game is gneerated using AI model Claude Sonnet 4. 
 
 ## Features
 
@@ -161,7 +161,3 @@ Potential improvements that could be added:
 - Leaderboard system
 - Mobile touch controls
 - Custom songs/patterns
-
-## License
-
-MIT License - Feel free to use and modify this code for your own projects!
