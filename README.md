@@ -40,7 +40,7 @@ This game is gneerated using AI model Claude Sonnet 4.
 
 ### Option 1: Play Online (GitHub Pages)
 The game is hosted on GitHub Pages and can be played directly at:
-`https://[your-username].github.io/[repository-name]/`
+[https://bobbydusk.github.io/ai-gen-pixi-rhythm-game/](https://bobbydusk.github.io/ai-gen-pixi-rhythm-game/)
 
 ### Option 2: Local HTTP Server
 ```bash
