@@ -1,0 +1,21 @@
+{
+  "name": "rhythm-game-pixi",
+  "version": "1.0.0",
+  "description": "A rhythm game built with Pixi.js",
+  "main": "index.html",
+  "scripts": {
+    "start": "python3 -m http.server 8000",
+    "serve": "python3 -m http.server 8000"
+  },
+  "keywords": [
+    "rhythm",
+    "game",
+    "pixi.js",
+    "javascript",
+    "music"
+  ],
+  "author": "AI Assistant",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
